@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="awt.jaxrs.security.authenticator.basic.AbstractBasicAuthenticatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2018-01-03T14:06:33" hostname="DESKTOP-O48NU6N" time="1.921">
-  <properties/>
-  <testcase name="testValid" classname="awt.jaxrs.security.authenticator.basic.AbstractBasicAuthenticatorTest" time="1.921"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
