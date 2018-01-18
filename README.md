@@ -4,7 +4,6 @@ Generic JAX-RS authentication framework.
 
 ## Code Example
 
-* [Register SecurityFeature](https://docs.oracle.com/javaee/7/api/javax/ws/rs/core/Application.html#getClasses) with your JAX-RS application.
 * Annotate any JAX-RS endpoint you want secured with @Secured.
      * scheme will be the authorization scheme (ex: Basic, Bearer)
      * authenticator will be the code execute when the aforementioned scheme is specified in the Authorization request header.
